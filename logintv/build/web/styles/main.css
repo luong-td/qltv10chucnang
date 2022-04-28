@@ -1,0 +1,57 @@
+.dangki{
+    width: 420px;
+    height: 480px;
+    background-color: buttonface;
+    border-radius: 10px;
+    text-align: left ;
+    margin-left: 35em;
+    margin-top: 5em;
+}
+.index{
+    width: 420px;
+    height: 480px;
+    background-color: buttonface;
+    border-radius: 10px;
+    text-align: left ;
+    margin-left: 35em;
+    margin-top: 5em;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11pt;
+    margin-left: 2em;
+    margin-right: 2em;
+    background-color: #33cccc;
+}
+label {
+    float: left;
+    height: 2em;
+    width: 6em;
+    margin-left: 1em;
+    margin-bottom: 2em;
+}
+input[type="text"], input[type="email"] {
+    width: 16em;
+    height: 1.5em;
+    margin-left: 0.5em;
+    margin-bottom: 0.5em;
+}
+input[type="submit"]{
+    width: 140px;
+    height: 40px;
+    background-color: #3399ff;
+    border-radius: 10px;
+    text-align: center ;
+    margin-left: 11em;
+}
+p{
+    margin-left: 1em;
+}
+br {
+    clear: both;
+}
+nav{
+    display: block;
+}
+ul {
+  list-style: none; }
